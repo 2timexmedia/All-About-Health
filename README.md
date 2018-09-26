@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/2timexmedia/All-About-Health/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Improves Digestion
+Using cloves in your meals will add a burst of flavor to them and also aid the digestive process by stimulating the secretion of digestive enzymes. They eliminate gas that collects in the digestive tracts which makes them a good cure for flatulence. They can be used in powder form with honey as a home-treatment for stomach disorders. As a result, you’re less likely to feel nauseous because of indigestion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Antibacterial Properties:
+Cloves have been tested for their antibacterial properties against a number of human pathogens. The extracts of cloves were potent enough to kill those pathogens. Clove extracts are also effective against the specific bacteria that spread cholera.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2timexmedia/All-About-Health/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Anti-Carcinogenic
+Studies show that cloves can act as an effective anti-carcinogenic which is a substance that can protect that body against the growth of cancers by inhibiting them. This was applied specifically to lung cancer, and results showed that cloves stopped the growth completely.
